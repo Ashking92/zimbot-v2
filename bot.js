@@ -1,14 +1,14 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮SARA BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
+//▮SaraBotInc SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +91 73850 66631 
+//▮YOUTUBE CHANNELL: https://instagram.com/ash_the_hackerr/
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,8 +16,8 @@
 //┃ZimBotInc SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS FOR CHOOSING SARABOT
+//┃THANKS TO ASH KING
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const fs = require('fs')
@@ -33,12 +33,12 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['7385066631',''] //owner number +917385066631
+global.pemilik = ['7385066631'] //owner number +917385066631
+global.premium = ['7385066631'] //premium number +917385066631
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
+global.footer = 'SARA BOT INC'
+global.botnma = 'SARA BOT INC' //bot name
 global.ownernma = 'Drips' //owner name
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
@@ -48,12 +48,12 @@ global.sp = '🔵' //sp
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*sara bot  must be admin first!*',
+    owner: '*this feature is only for sara owner*',
     group: '*Feature is only for groups!*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment sara bot proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
 }
 global.limitawal = {
