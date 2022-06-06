@@ -1,5 +1,5 @@
 {
-  "name": "Zim-bot",
+  "name": "Sara-bot",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Zim Bot Inc.",
   "main": "index.js",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/tuna-bot.git"
+    "url": "git+https://github.com/Ashking92/zimbot-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/zim-bot/tuna-bot/issues"
+    "url": "https://github.com/zim-bot/Ashking92/issues"
   },
-  "homepage": "https://github.com/zim-bot/tuna-bot#readme"
+  "homepage": "https://github.com/zim-bot/Ashking92#readme"
 }
